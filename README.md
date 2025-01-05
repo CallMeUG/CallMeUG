@@ -45,4 +45,5 @@ My background in computer engineering has sparked a strong interest in cybersecu
 
 ## Projects
 - Elastic SIEM Configuration and Management
-- Wireshark Network Traffic Analysis and Incident Reporting – Visit my [Medium](<callmeug.medium.com>) page to explore detailed analyses and insights I’ve conducted.
+- Wireshark Network Traffic Analysis and Incident Reporting – Visit my <a href="https://www.callmeug.medium.com" target="_blank">Medium</a> page to explore detailed analyses and insights I’ve conducted.
+
